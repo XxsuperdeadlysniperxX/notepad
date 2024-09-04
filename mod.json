@@ -4,7 +4,7 @@
 	"author": "DeltaNedas",
 	"description": "Adds a handy notepad.\n[stat]Requires [#00aaff]DeltaNedas/ui-lib[].",
 	"version": "2.0.0",
-	"minGameVersion": 105,
+	"minGameVersion": 146,
 	"dependencies": ["ui-lib"],
 	"hidden": true
 }
